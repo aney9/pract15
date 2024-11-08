@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/first"
+        android:title="Мобилки топ"/>
+
+
+    <item android:id="@+id/second"
+        android:title="Мобилки будущее"/>
+
+
+    <item android:id="@+id/third"
+        android:title="Поставьте 5"/>
+</menu>
